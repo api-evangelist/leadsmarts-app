@@ -64,16 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LeadSmarts provides AI‑powered lead qualification with receipts, researching public web data to score and prioritize sales leads. The service integrates with major CRMs, offers transparent scoring rules, and supplies evidence‑backed outreach drafts. Operated by AIIA CONSULTING in Bulgaria, it serves B2B SaaS companies seeking efficient outbound prospecting.
+LeadSmarts provides AI‑powered lead qualification with receipts, researching leads on the live web, scoring them, and supplying evidence for sales teams. The platform integrates with CRMs, offers free qualification of the first five leads, and emphasizes privacy and data security, as detailed in its privacy policy and terms of service.
 
-**Areas:** B2B · SaaS · Lead Qualification · AI · Sales Automation
+**Areas:** Lead Qualification · AI · Sales Enablement · B2B SaaS · Privacy
 
 ## LeadSmarts on APIs.io
 
 Everything profiled for LeadSmarts is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/leadsmarts-app/](https://apis.io/providers/leadsmarts-app/)** — or go straight to one of the APIs or properties below.
 
-### APIs (1)
+### APIs (2)
 
+- [LeadSmarts API](https://apis.io/apis/leadsmarts-app/leadsmarts-api/) — LeadSmarts provides an MCP server for AI‑powered lead qualification. Documentation is at https://leadsmarts.app/developers. No machine‑readable contract was…
 - [LeadSmarts API](https://apis.io/apis/leadsmarts-app/leadsmarts-app-api/) — LeadSmarts API as documented publicly: 2 operations. Contract generated from the documentation by API Evangelist (2026-11-15); not the provider's own document.
 
 ### Published properties
@@ -109,27 +110,25 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://leadsmarts.app/)
-- [Documentation](https://leadsmarts.app/developers)
-- [Getting started](https://leadsmarts.app/qualify/)
-- [API reference](https://leadsmarts.app/developers)
-- [Support](https://leadsmarts.app/contact)
+- [Documentation](https://leadsmarts.app/qualify/)
+- [Sign up](https://app.leadsmarts.app)
 - [Terms of service](https://leadsmarts.app/terms)
 - [Privacy policy](https://leadsmarts.app/privacy)
 
 ## API Evangelist rating
 
-**Kin Score 37.4** — thin · rubric 0.28.0 · scored 2026-11-15
+**Kin Score 37.9** — thin · rubric 0.27.0 · scored 2026-11-15
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 57.1 |
 | Contract quality | 46.9 |
 | Contract governance | 79.1 |
 | Operational transparency | 0.0 |
-| Developer ergonomics | 33.3 |
-| Access clarity | 17.0 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 34.2 |
 
-**Agent readiness 20.3** — agent-aware
+**Agent readiness 23.1** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -144,7 +143,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -156,7 +155,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 11.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/leadsmarts-app/](https://apis.io/providers/leadsmarts-app/).
 
